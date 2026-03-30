@@ -26,7 +26,7 @@ If you have any question or something, feel free to reach out me anytime via tel
 <br>
 #### 🌹You're always welcome🌹
 
-Telegram: [@whistle](https://t.me/devbeast5775) <br>
+Telegram: [@soldrift](https://t.me/devbeast5775) <br>
 
 ## 👀 Usage
 1. Clone the repository
