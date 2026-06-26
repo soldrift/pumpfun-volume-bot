@@ -32,7 +32,7 @@ Telegram: [@soldrift](https://t.me/devbeast5775) <br>
 1. Clone the repository
 
     ```
-    git clone https://github.com/whistledev411/pumpfun-volume-bot.git
+    git clone https://github.com/soldrift/pumpfun-volume-bot.git
     cd pumpfun-volume-bot
     ```
 2. Install dependencies
